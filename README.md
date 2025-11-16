@@ -11,92 +11,94 @@ I do not own every game that is supported by Gamespy 3D, so this is not a compre
 
 **Server List** - This type allows a list of servers to be pulled from a web URL (HTTP only, no HTTPS) or a file.
 
-### Server IP Format Key
 
-Server List Name - Address:Port (extra info)
 
 ## Master Servers List
 
-**Daikatana**
+### Server IP Format Key
+
+- Server List Name - `Address`:`Port` (extra info)
+
+### Daikatana
 
 SmartSpy Servers
 
-Maraakate - master.maraakate.org:28900
+- Maraakate - `master.maraakate.org`:`28900`
 
-**Half-Life**
+### Half-Life
 
 Master Servers
 
-1.0.1.6 Master - hlmaster.order-of-phalanx.net:27010
+- 1.0.1.6 Master - `hlmaster.order-of-phalanx.net`:`27010`
 
-WON2 Master (1.1.1.0 Only) - master.won2.steamlessproject.nl:27010
+- WON2 Master (1.1.1.0 Only) - `master.won2.steamlessproject.nl`:`27010`
 
-**Heretic 2**
-
-SmartSpy Servers
-
-OpenSpy - master0.openspy.net:28900
-
-Maraakate - master.maraakate.org:28900 (Check LANMaster Server)
-
-**Hexen 2**
+### Heretic 2
 
 SmartSpy Servers
 
-Maraakate - master.maraakate.org:28900
+- OpenSpy - `master0.openspy.net`:`28900`
 
-**HexenWorld**
+- Maraakate - `master.maraakate.org`:`28900` (Check LANMaster Server)
+
+### Hexen 2
+
+SmartSpy Servers
+
+- Maraakate - `master.maraakate.org`:`28900`
+
+### HexenWorld
 
 Master Servers
 
-Maraakate - master.maraakate.org:27900
+- Maraakate - `master.maraakate.org`:`27900`
 
-**Kingpin**
-
-SmartSpy Servers
-
-Kingpin.info - master.kingpin.info:28900 (Check LANMaster Server)
-
-**Quake**
+### Kingpin
 
 SmartSpy Servers
 
-Maraakate - master.maraakate.org:28900 (Check LANMaster Server)
+- Kingpin.info - `master.kingpin.info`:`28900` (Check LANMaster Server)
 
-**QuakeWorld**
+### Quake
+
+SmartSpy Servers
+
+- Maraakate - `master.maraakate.org`:`28900` (Check LANMaster Server)
+
+### QuakeWorld
 
 Master Servers
 
-QuakeServers.net - master.quakeservers.net:27000
+- QuakeServers.net - `master.quakeservers.net`:`27000`
 
-Fodquake.net - qwmaster.fodquake.net:27000
+- Fodquake.net - `qwmaster.fodquake.net`:`27000`
 
-QuakeWorld.nu - master.quakeworld.nu:27000
+- QuakeWorld.nu - `master.quakeworld.nu`:`27000`
 
 SmartSpy Servers
 
-Maraakate - master.maraakate.org:28900
+- Maraakate - `master.maraakate.org`:`28900`
 
-**Quake 2**
+### Quake 2
 
 Master Servers
 
-QuakeServers.net - master.quakeservers.net:27900
+- QuakeServers.net - `master.quakeservers.net`:`27900`
 
 Server Lists
 
-Action Quake II - http://q2servers.com/?mod=action&g=_&m=_&ac=*&s=&player=
+- Action Quake II - `http://q2servers.com/?mod=action&g=_&m=_&ac=*&s=&player=`
 
-Q2Servers.com - http://q2servers.com
+- Q2Servers.com - `http://q2servers.com`
 
-**Rune**
-
-SmartSpy Servers
-
-OpenSpy - master0.openspy.net:28900
-
-**Turok 2**
+### Rune
 
 SmartSpy Servers
 
-(Name Unknown) - 65.112.87.186:28900 (Check LANMaster Server)
+- OpenSpy - `master0.openspy.net`:`28900`
+
+### Turok 2
+
+SmartSpy Servers
+
+- (Name Unknown) - `65.112.87.186`:`28900` (Check LANMaster Server)
